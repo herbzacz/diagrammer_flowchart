@@ -1,4 +1,4 @@
-# diagrammer_flowchart
+# diagrammer_flowchart [R]
 Source code for a basic flow chart creation in R
 ```
 mermaid("graph LR
