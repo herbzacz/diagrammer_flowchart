@@ -11,4 +11,4 @@ C[Stage4]-->E[Solution]
 D[Stage3]-->E[Solution]
 ") 
 ```
-![alttext](https://fhwnspeicher.blob.core.windows.net/eins/flowchart.png)
+![alttext](https://github.com/herbzacz)
